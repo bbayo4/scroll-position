@@ -4,7 +4,7 @@ Base on slideshow or tab functionality (how generally they function) within a we
 
 Every once in a while, you might find yourself in a scenario where it would have been nice if the scroll bars remained where you had them when you clicked the link or menu within a website. For example a slideshow which is compose of multiple pages but you want each time you click next and the page load to another content but then scroll top instead of where you were position (your initial click). However, sometimes you may want to load a new page on each click, either you want to make content more accessible to search engines for SEO purposes or want a dynamic feeling of your page.
 
-With so many research i came accross of the script called Scroll Sneak developed by Peter Coles @ http://mrcoles.com/blog/scroll-sneak-maintain-position-between-page-loads/ . This script is  something that will generally go unnoticed when experienced, but it will also prevent the mild aggravation that arises from undesired functionality—a page jumping back to the top when you wished it didn’t.
+With so many research i came accross of the script called Scroll Sneak. This script is  something that will generally go unnoticed when experienced, but it will also prevent the mild aggravation that arises from undesired functionality—a page jumping back to the top when you wished it didn’t.
 
 ## How it works
 

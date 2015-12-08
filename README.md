@@ -16,7 +16,7 @@ It also does some additional stuff, such as restoring an original window.name va
 
 ## Usage
 
-### 1. In your <tt> <head> tag put the following code in a <script></script>
+### 1. In your <tt> <head> <tt> tag put the following code in a <script></script>
 
 ```
 var ScrollSneak = function(prefix, wait) {

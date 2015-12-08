@@ -16,7 +16,7 @@ It also does some additional stuff, such as restoring an original window.name va
 
 ## Usage
 
-### 1. In your ```<head> ``` tag put the following code in a <script></script>
+### 1. In your ```<head> ``` tag put the following code between the  ```<script></script>```
 
 ```
 var ScrollSneak = function(prefix, wait) {
@@ -57,7 +57,7 @@ var ScrollSneak = function(prefix, wait) {
 
 ```
 
-### 2. Right before the closing </body> tag put the following code below in a <script></script>
+### 2. Right before the closing ``` </body> ``` tag put the following code below between the  ```<script></script>```
 
 ```
 // applies the sneak event handler to all "li" elements underneath the element with the id "tabs" which is swim-finder-item-list-sbb and also to the element with id "next" and "previous"

@@ -1,10 +1,10 @@
 # Maintaining Scroll Position between page load
 
-Base on slideshow or tab functionality (how generally they function) within a website, macys.com marketting team wanted a sitelet that have multiple contents but want each content to be on a seperate page with titles and metadata. Normally, when you scroll down a web page and click on a link, the scroll bar jumps back to the top when the new page is loaded.
+Base on slideshow or tab functionality (how generally they function) within a website, sometimes business might want a sitelet that have multiple contents but want each content to load a new page on each click for the content to be more accessible to search engines for SEO purposes and have that dynamic feeling of your static page.
 
-Every once in a while, you might find yourself in a scenario where it would have been nice if the scroll bars remained where you had them when you clicked the link or menu within a website. For example a slideshow which is compose of multiple pages but you want each time you click next and the page load to another content but then scroll top instead of where you were position (your initial click). However, sometimes you may want to load a new page on each click, either you want to make content more accessible to search engines for SEO purposes or want a dynamic feeling of your page.
+Every once in a while, you might find yourself in a scenario where it would have been nice if the scroll bars remained where you had them when you clicked the link or menu within a website.  For example a slideshow which is compose of multiple pages but you want each time you click next and the page load to another content but then scroll top instead of where you were position (your initial click). Normally, when you scroll down a web page and click on a link, the scroll bar jumps back to the top when the new page is loaded.
 
-With so many research i came accross of the script called Scroll Sneak. This script is  something that will generally go unnoticed when experienced, but it will also prevent the mild aggravation that arises from undesired functionality—a page jumping back to the top when you wished it didn’t.
+Scroll Sneak. This script is  something that will generally go unnoticed when experienced, but it will also prevent the mild aggravation that arises from undesired functionality—a page jumping back to the top when you wished it didn’t.
 
 ## How it works
 
